@@ -9,39 +9,41 @@
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
     color: var(--text-color);
+    --text-color: rgb(80, 81, 85);
+    --text-color-white: rgb(255, 255, 255);
+    --text-contacts: rgb(255, 255, 255);
+    --text-footer: rgb(255, 255, 255);
+    --title-light-color: rgba(255, 255, 255, 0.6);
+    --title-dash: rgb(238, 46, 20);
+    --subtitle-light-color: rgb(255, 255, 255);
+    --description-light: rgba(255, 255, 255, 0.6);
+    --description-dark: #505155;
+    --main-nav: rgb(247, 247, 247);
+    --background-main-nav: rgb(35, 36, 40);
+    --background-contacts: rgb(0, 0, 0);
+    --background-footer: rgb(0, 0, 0);
+    --header-button: rgb(255, 255, 255);
+    --header-button-hover: #18191f;
+
 
     
     --plus-color: rgba(255, 255, 255);
-    --text-color: rgb(80, 81, 85);
+    
     --border-color: #ccc;
     --ui-brand-color: #f5a623;
-    --subtitle-light-color: rgb(255, 255, 255);
     --subtitle-dark-color: rgb(111, 115, 128);
     --title-color: rgb(111, 115, 128);
-    --title-light-color: rgba(255, 255, 255, 0.6);
     --text-white-color: rgb(255, 255, 255);
     --background-dark-color: rgb(35, 36, 40);
     --title-accordion-color: rgb(255, 255, 255);
     --text-accordion-color: rgba(169, 169, 169);
     --text-description-tab-color: rgb(112, 112, 112); 
-    --description-light: rgba(255, 255, 255, 0.6);
-    --description-dark: #505155;
     --button-color: #14a9ee; 
-    --title-dash: rgb(238, 46, 20);
-    --text-color-header: rgb(255, 255, 255);
     --about-norway-numbers-color: #232428;
-    --header-button: rgb(255, 255, 255);
-    --header-button-hover: #18191f;
     --promo-video-caption: #fff;
-    --main-nav: rgb(247, 247, 247);
-    --background-main-nav: rgb(35, 36, 40);
     --about-us__subtitle-brand-color: #14a9ee;    
     --about-us__bottom-section-item-title: rgb(35, 36, 40);
     --testimonials-quote-text-color: rgb(112, 112, 112);
-    --text-contacts: rgb(255, 255, 255);
-    --background-contacts: rgb(0, 0, 0);
-    --background-footer: rgb(0, 0, 0);
-    --text-footer: rgb(255, 255, 255);
     --about-us__bottom-section-item: rgb(255, 255, 255);
     --tour-itinerary-list-item-title-color: #fff;
 }
